@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/13 RecyclerView" />
             <option value="$PROJECT_DIR$/14 Wifi,Bluetooth" />
+            <option value="$PROJECT_DIR$/15 Socket" />
           </set>
         </option>
       </GradleProjectSettings>

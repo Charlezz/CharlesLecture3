@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/13 RecyclerView/13 RecyclerView.iml" filepath="$PROJECT_DIR$/13 RecyclerView/13 RecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/14 Wifi,Bluetooth/14 Wifi,Bluetooth.iml" filepath="$PROJECT_DIR$/14 Wifi,Bluetooth/14 Wifi,Bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 Socket/15 Socket.iml" filepath="$PROJECT_DIR$/15 Socket/15 Socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/CharlesLecture3.iml" filepath="$PROJECT_DIR$/CharlesLecture3.iml" />
     </modules>
   </component>
