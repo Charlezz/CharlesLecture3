@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Created by Charles on 16. 2. 21..
  */
 public class EchoClient {
-    public static int PORT_NUM = EchoServer.PORT_NUM;
+    public static int PORT_NUM = 9997;
 
     public static void main(String[] args){
         System.out.println("Try to connect");
