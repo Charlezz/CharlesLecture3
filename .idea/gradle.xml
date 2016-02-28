@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/14 Wifi,Bluetooth" />
             <option value="$PROJECT_DIR$/15 Socket" />
             <option value="$PROJECT_DIR$/15-1 File" />
+            <option value="$PROJECT_DIR$/16 ChatHead" />
+            <option value="$PROJECT_DIR$/16-1 lock" />
           </set>
         </option>
       </GradleProjectSettings>
